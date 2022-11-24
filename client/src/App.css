@@ -1,0 +1,8 @@
+*{
+    font-family: 'Poppins';
+    font-weight: 600;
+}
+.pose{
+    background: url(../src/image/pose.png);
+}
+
